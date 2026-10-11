@@ -1,0 +1,94 @@
+{
+ "banner": "Screening result only. Confirmation requires an FSSAI-notified or NABL-accredited laboratory.",
+ "foot": "Not affiliated with or endorsed by FSSAI or ICAR-NDRI. Demo build.",
+ "nav": {
+  "tests": "Tests",
+  "limits": "Limits",
+  "sources": "Sources",
+  "theme": "Toggle dark mode"
+ },
+ "hero": {
+  "sub": "Simple colour tests to screen milk and milk products at home or at the collection centre.",
+  "cta": "Start a test",
+  "s1": "Read the safety panel and tick the box.",
+  "s2": "Follow the short steps. Never taste or smell samples.",
+  "s3": "Pick the colour you see. Get a screening result."
+ },
+ "lib": {
+  "title": "Tests library",
+  "levelA": "Level A: for everyone. Levels B and C need staff or lab access (coming in the next stage)."
+ },
+ "wiz": {
+  "safetyTitle": "Safety first",
+  "safety": [
+   "Wear gloves and eye protection.",
+   "Do not taste or smell samples or chemicals.",
+   "Keep chemicals away from children, animals and food.",
+   "Iodine stains clothes and skin.",
+   "Concentrated acids and solvents are for trained laboratory staff only.",
+   "Dispose of samples and reagents safely."
+  ],
+  "ack": "I have read and understood the safety points",
+  "start": "Start",
+  "step": "Step",
+  "back": "Back",
+  "next": "Next",
+  "pick": "Which colour or result do you see?",
+  "cannot": "Cannot tell: retest",
+  "notDetected": "Not detected",
+  "suspected": "Suspected",
+  "retest": "Retest",
+  "actionSusp": "Stop using this product. Report it to your State Food Safety Officer or through the FSSAI complaint channels:",
+  "actionRetest": "Repeat the test once with fresh sample and a normal milk control.",
+  "disc": "Screening result only. Confirmation requires an FSSAI-notified or NABL-accredited laboratory.",
+  "again": "Run again"
+ },
+ "limits": {
+  "title": "What colour tests cannot detect",
+  "items": [
+   "Antibiotic residues need a test kit or laboratory.",
+   "Aflatoxin M1 needs a kit or laboratory.",
+   "Pesticides need a laboratory.",
+   "Heavy metals need a laboratory.",
+   "Oxytocin needs a laboratory.",
+   "Natural colour varies with breed, feed and season."
+  ]
+ },
+ "sources": {
+  "title": "Sources",
+  "body": "Test ideas follow the FSSAI DART method and the 2019 adulterant manual, and ICAR-NDRI guidance. Content has not been checked against the originals: verify before real use.",
+  "na": "Not affiliated with or endorsed by FSSAI or ICAR-NDRI."
+ },
+ "tests": {
+  "A1": {
+   "title": "Water in milk (glass slide)",
+   "steps": [
+    "Put one drop of milk on a clean, polished glass slide.",
+    "Hold the slide at a slant.",
+    "Watch the drop. Do not touch it."
+   ],
+   "neg": "Stays or flows slowly, leaving a white trail (Not detected)",
+   "pos": "Runs off at once, no trail (Suspected)"
+  },
+  "A2": {
+   "title": "Detergent in milk (shake)",
+   "steps": [
+    "Take 5 to 10 ml milk in a clean bottle and add the same amount of water.",
+    "Close the bottle and shake well.",
+    "Look at the foam."
+   ],
+   "neg": "Thin foam (Not detected)",
+   "pos": "Thick, lasting lather (Suspected)"
+  },
+  "A3": {
+   "title": "Starch in milk (iodine)",
+   "steps": [
+    "Put about 3 ml milk in a clean glass. If it was boiled, cool it to room temperature.",
+    "Add 2 to 3 drops of tincture of iodine.",
+    "Look at the colour."
+   ],
+   "neg": "Brown or orange-brown (Not detected)",
+   "pos": "Blue or bluish-black (Suspected)"
+  }
+ }
+}
